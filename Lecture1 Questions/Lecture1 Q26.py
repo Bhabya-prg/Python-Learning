@@ -1,7 +1,0 @@
-name=input("Enter your name :")
-age=int(input("Enter your age :"))
-school=input("Enter your school name :")
-print("\n----- Student Profile -----")
-print(f"Name: {name}")
-print(f"Age: {age}")
-print(f"School: {school}")
